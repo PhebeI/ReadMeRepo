@@ -10,16 +10,19 @@ This describes our projects and their importance and what it does.
 project name: xmlwrangler
 description: taskXML is a Python file for manipulating a movie xml file.
 Usage: python taskXML.py
+Screenshot: ![xmlwrangler_shot](https://user-images.githubusercontent.com/119197163/214538067-028b57b1-67dc-451d-8e8a-2f5dd46a7ae7.PNG)
 ```
 ```bash
 project name: MyCV
 description: Details profile, work experience, training and place of origin.
 Usage: https://phebei.github.io/MyCV/
+Screenshot: ![my_bio_shot](https://user-images.githubusercontent.com/119197163/214538483-9bece26b-af6d-4964-aae9-569e9ad53385.PNG)
 ```
 ```bash
 project name: modestapparel
 description: clothing website about royal and modest apparel.
 Usage: https://phebei.github.io/modestapparel/
+Screenshot: ![modestapparel_shot](https://user-images.githubusercontent.com/119197163/214538733-9bee0ca5-fbca-4691-9b85-3c6cad8420cd.PNG)
 ```
 
 # xmlwrangler
